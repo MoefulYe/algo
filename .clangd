@@ -1,5 +1,4 @@
 
-CompileFlags:            # 编译标志部分
+CompileFlags:            
   Add:
-    - "-std=c++23"      # 使用C++20标准
-
+    - "-std=c++2b"      
